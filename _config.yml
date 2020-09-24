@@ -1,6 +1,6 @@
 # Book settings
-title: Physics 111 
-author: Firas Moosvi
+title: UNIV-392/492 
+author: Dr. Martha Bhattacharya
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
