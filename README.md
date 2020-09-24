@@ -1,7 +1,6 @@
-# JupyterBook Course Template
+# Welcome to the VIP on Brain Communication Networks!
 
-This is a template repository that makes it drop-dead simple for anyone to create a JupyterBook course website and deploy it using GH Pages.
-No configuration is necessary, there are just three steps.
+This is a research-focused course in which students master a skill set, apply it to a problem, generate new data and results, analyze that data, and then ask the next set of questions! Students are encouraged to enroll for multiple semesters in succession. As students progress, they will train incoming students in techniques and skills that they have already mastered, while learning from students in other cohorts. In this way, it lives up to its moniker as a Vertically Integrated Project. 
 
 ## Course Website
 
